@@ -217,6 +217,10 @@
     text-decoration: none;
     color: #21243D;
 }
+#wp-feat-tx > a:hover{
+    cursor: pointer;
+    color: #FF6464;
+}
 
 /*------blog-page----*/
 .blog {
