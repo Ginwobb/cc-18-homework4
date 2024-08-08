@@ -213,6 +213,10 @@
 .feat-work {
     padding: 30px 120px
 }
+#wp-feat-tx > a{
+    text-decoration: none;
+    color: #21243D;
+}
 
 /*------blog-page----*/
 .blog {
